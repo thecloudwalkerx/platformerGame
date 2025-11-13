@@ -26,7 +26,10 @@ All assets and logic are structured in a modular format, making it easy to exten
 
 ## 🎥 Gameplay Preview
 
-https://github.com/thecloudwalkerx/platformerGame/blob/main/Gameplay%20Video.mp4
+<video src="https://github.com/thecloudwalkerx/platformerGame/blob/main/Gameplay%20Video.mp4" controls width="700">
+  Your browser does not support embedded videos.  
+  <a href="https://github.com/thecloudwalkerx/platformerGame/blob/main/Gameplay%20Video.mp4">Click here to view the video</a>.
+</video>
 
 ---
 

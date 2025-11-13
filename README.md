@@ -1,5 +1,7 @@
 # 🎮 Java Platformer Game (Tutorial-Based Project)
 
+![Game Poster](https://github.com/thecloudwalkerx/platformerGame/blob/main/Game%20Poster.png)
+
 This repository contains a **2D platformer game** built in **Java**, following the *Platformer Tutorial Series* by [**Kaarin Gaming**](https://www.kaaringaming.com/).  
 The purpose of this project is **educational** — to learn the fundamentals of Java game development through hands-on replication, code exploration, and experimentation.
 
@@ -19,6 +21,12 @@ This project implements the core systems of a classic 2D platformer, including:
 * **Animations**, **parallax backgrounds**, and **sound effects**
 
 All assets and logic are structured in a modular format, making it easy to extend or customize for future projects.
+
+---
+
+## 🎥 Gameplay Preview
+
+https://github.com/thecloudwalkerx/platformerGame/blob/main/Gameplay%20Video.mp4
 
 ---
 
